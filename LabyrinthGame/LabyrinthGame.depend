@@ -1,0 +1,153 @@
+# depslib dependency file v1.0
+1610758226 source:d:\documentos\platzi\c++\labyrinthgame\main.cpp
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	"MapCell.h"
+	"GameMap.h"
+	"Player.h"
+
+1610758537 d:\documentos\platzi\c++\labyrinthgame\gamemap.h
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	"MapCell.h"
+	"Player.h"
+	"Enemy.h"
+
+1610758195 source:d:\documentos\platzi\c++\labyrinthgame\gamemap.cpp
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	"GameMap.h"
+	"Player.h"
+
+1610757442 source:d:\documentos\platzi\c++\labyrinthgame\gamemap.h
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	"MapCell.h"
+	"Player.h"
+	"Enemy.h"
+
+1610756184 d:\documentos\platzi\c++\labyrinthgame\player.h
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	"GameMap.h"
+
+1610756184 source:d:\documentos\platzi\c++\labyrinthgame\player.h
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	"GameMap.h"
+
+1610756386 source:d:\documentos\platzi\c++\labyrinthgame\player.cpp
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	"Player.h"
+	"GameMap.h"
+
+1610742315 d:\documentos\platzi\c++\labyrinthgame\mapcell.h
+	<iostream>
+	<stdlib.h>
+	<fstream>
+
+1610742315 source:d:\documentos\platzi\c++\labyrinthgame\mapcell.h
+	<iostream>
+	<stdlib.h>
+	<fstream>
+
+1610747525 source:d:\documentos\platzi\c++\labyrinthgame\mapcell.cpp
+	"MapCell.h"
+	<iostream>
+	<stdlib.h>
+	<fstream>
+
+1610746217 source:d:\documentos\platzi\c++\labyrinthgame\enemy.cpp
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	<stdlib.h>
+	"Enemy.h"
+	"GameMap.h"
+
+1610745410 d:\documentos\platzi\c++\labyrinthgame\enemy.h
+
+1610746217 source:d:\documentos\platzi\c++\mazegame\labyrinthgame\enemy.cpp
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	<stdlib.h>
+	"Enemy.h"
+	"GameMap.h"
+
+1610745410 d:\documentos\platzi\c++\mazegame\labyrinthgame\enemy.h
+
+1610758537 d:\documentos\platzi\c++\mazegame\labyrinthgame\gamemap.h
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	"MapCell.h"
+	"Player.h"
+	"Enemy.h"
+
+1610742315 d:\documentos\platzi\c++\mazegame\labyrinthgame\mapcell.h
+	<iostream>
+	<stdlib.h>
+	<fstream>
+
+1610756184 d:\documentos\platzi\c++\mazegame\labyrinthgame\player.h
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	"GameMap.h"
+
+1610758537 source:d:\documentos\platzi\c++\mazegame\labyrinthgame\gamemap.cpp
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	"GameMap.h"
+	"Player.h"
+
+1610758537 source:d:\documentos\platzi\c++\mazegame\labyrinthgame\gamemap.h
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	"MapCell.h"
+	"Player.h"
+	"Enemy.h"
+
+1610758226 source:d:\documentos\platzi\c++\mazegame\labyrinthgame\main.cpp
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	"MapCell.h"
+	"GameMap.h"
+	"Player.h"
+
+1610747525 source:d:\documentos\platzi\c++\mazegame\labyrinthgame\mapcell.cpp
+	"MapCell.h"
+	<iostream>
+	<stdlib.h>
+	<fstream>
+
+1610742315 source:d:\documentos\platzi\c++\mazegame\labyrinthgame\mapcell.h
+	<iostream>
+	<stdlib.h>
+	<fstream>
+
+1610756386 source:d:\documentos\platzi\c++\mazegame\labyrinthgame\player.cpp
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	"Player.h"
+	"GameMap.h"
+
+1610756184 source:d:\documentos\platzi\c++\mazegame\labyrinthgame\player.h
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	"GameMap.h"
+
