@@ -15,11 +15,6 @@ private:
 public:
 
     Enemy();
-
-    //Funcion que llama las posiciones del mapa
-    void CallEnemyPosFromMap();
-    //Funcion que refresca la posicion del enemigo para el mapa
-    void RefreshEnemyPosForMap(int NewPosx, int NewPosy);
     //Funcion para saber si el movimiento es valido
     bool IsValidMovement(int Mov);
     //Funcion que mueve al enemigo

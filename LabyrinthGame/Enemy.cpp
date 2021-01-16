@@ -11,24 +11,6 @@ Enemy::Enemy()
 {
 }
 
-//Llama la posicion del jugador de la que encuentra cuando dibujua por primera vez el mapa
-//-------------------------------Se puede borrar-------------------------------------------------
-void Enemy::CallEnemyPosFromMap()
-{
-    GameMap NewGameMap;
-    EnemyPosX = NewGameMap.GetEnemyPosX();
-    EnemyPosY = NewGameMap.GetEnemyPosY();
-}
-
-//-------------------------------Se puede borrar-------------------------------------------------
-//Refresca la posicion del heroe del mapa.
-void Enemy::RefreshEnemyPosForMap(int NewPosx, int NewPosy)
-{
-    EnemyPosX = NewPosx;
-    EnemyPosY = NewPosy;
-}
-
-
 //Valida si el movimiento es valido viendo si no se desborda de los limites del mapa
 bool Enemy:: IsValidMovement(int Mov)
 {

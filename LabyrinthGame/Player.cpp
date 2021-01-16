@@ -137,7 +137,7 @@ void Player:: CallInput()
     else
     {
         system ("CLS");
-        cout << "Invalid movement in (x,y): " << HeroPosY << " " << HeroPosX << endl << "You can't touch the walls! :c" << endl;
+        cout << "Invalid movement in (x,y): " << HeroPosY << " " << HeroPosX << endl << "You can't pass walls! :c" << endl;
     }
 
 }
